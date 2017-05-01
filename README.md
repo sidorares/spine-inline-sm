@@ -1,5 +1,7 @@
 # Spine
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sidorares/spine-inline-sm.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://secure.travis-ci.org/maccman/spine.png)](http://travis-ci.org/maccman/spine)
 
 Spine is a lightweight framework for building JavaScript web applications. Spine gives you an MVC structure and then gets out of your way, allowing you to concentrate on the fun stuff, building awesome web applications.
